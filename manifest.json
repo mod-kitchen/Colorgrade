@@ -1,0 +1,10 @@
+{
+  "Name": "Colorgrade",
+  "Author": "mod.kitchen",
+  "Version": "1.0.0",
+  "Description": "Applies pretty color gradations to the world.",
+  "UniqueID": "mod.kitchen.colorgrade",
+  "EntryDll": "Colorgrade.dll",
+  "MinimumApiVersion": "3.14.0",
+  "UpdateKeys": [ "Nexus:12091" ]
+}

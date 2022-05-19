@@ -149,7 +149,6 @@ namespace Colorgrade
                 LookupTableA = Helper.ModContent.Load<Texture2D>(Path.Join("ColorTables", A.Filename));
                 LUTEffect.Parameters["LUT1"].SetValue(LookupTableA);
             }
-
             if(B.Filename != LookupTableBFilename)
             {
                 LookupTableBFilename = B.Filename;

@@ -1,13 +1,27 @@
 [
   {
-    "Location": "FarmHouse",
-    "Weather": "any",
+    "Location": "Town",
     "Time": "0600",
-    "Filename": "1.png"
+    "Filename": "0600.png"
   },
   {
-    "Location": "FarmHouse",
-    "Time": "0700",
-    "Filename": "2.png"
+    "Location": "Town",
+    "Time": "1200",
+    "Filename": "1200.png"
+  },
+  {
+    "Location": "Town",
+    "Time": "1600",
+    "Filename": "1600.png"
+  },
+  {
+    "Location": "Town",
+    "Time": "2000",
+    "Filename": "2000.png"
+  },
+  {
+    "Location": "Town",
+    "Time": "2600",
+    "Filename": "2600.png"
   }
 ]

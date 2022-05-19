@@ -1,6 +1,6 @@
 <center>
 
-### Colorgrade
+# Colorgrade
 </center>
 <hr>
 

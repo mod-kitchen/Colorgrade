@@ -1,7 +1,7 @@
-<center>
+<p style="text-align: center;">
 
 # Colorgrade
-</center>
+</p>
 <hr>
 
 ### What does it do?
@@ -20,7 +20,7 @@ Yes. (Other players are entirely irrelevant to this mod.)
 (In progress)
 
 <hr>
-<center>
+<p style="text-align: center;">
 
 ### License:<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="padding-left: 13px; padding-right:5px; margin-top: -8px; vertical-align: middle; border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> CC-BY 4.0 International
 
@@ -28,4 +28,4 @@ This mod project is licensed under a <a rel="license" href="http://creativecommo
 
 <hr>
 
-<a href="https://github.com/bwdy/SDVModding/tree/main/MinecartPatcher"></a><a href="https://mod.kitchen/"><img src="https://i.imgur.com/WW0XFoE.png" /></a><a href="https://discord.gg/adCeFQK"><img src="https://i.imgur.com/2LRy8sr.png" /></a></center>
+<a href="https://github.com/bwdy/SDVModding/tree/main/MinecartPatcher"></a><a href="https://mod.kitchen/"><img src="https://i.imgur.com/WW0XFoE.png" /></a><a href="https://discord.gg/adCeFQK"><img src="https://i.imgur.com/2LRy8sr.png" /></a></p>

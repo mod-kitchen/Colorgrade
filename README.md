@@ -19,11 +19,12 @@ Yes. (Other players are entirely irrelevant to this mod.)
 <hr>
 <center>
 
-<h2 align="center">License:<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="padding-left: 13px; padding-right:5px; margin-top: -8px; vertical-align: middle; border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> CC-BY 4.0 International</h2>
+<h2 align="center">License:<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">&nbsp;&nbsp;&nbsp;<img alt="Creative Commons License" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>&nbsp;&nbsp;&nbsp;CC-BY 4.0 International</h2>
 
-This mod project is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<p align="center">This mod project is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
 
 <hr>
 
 <p align="center">
-<a href="https://github.com/bwdy/SDVModding/tree/main/MinecartPatcher"></a><a href="https://mod.kitchen/"><img src="https://i.imgur.com/WW0XFoE.png" /></a><a href="https://discord.gg/adCeFQK"><img src="https://i.imgur.com/2LRy8sr.png" /></a></p>
+<a href="https://github.com/bwdy/SDVModding/tree/main/MinecartPatcher"></a><a href="https://mod.kitchen/"><img src="https://i.imgur.com/WW0XFoE.png" /></a><a href="https://discord.gg/adCeFQK"><img src="https://i.imgur.com/2LRy8sr.png" /></a>
+</p>
